@@ -2,7 +2,7 @@
 
 Columns:
 
-1. `price`: Target variable (int64) — house price.
+1. `price`: Target variable (int64) — house price in South African Rands.
 2. `area`: (int64) — size of the house in square metres.
 3. `bedrooms`: (int64) — number of bedrooms.
 4. `bathrooms`: (int64) — number of bathrooms.
