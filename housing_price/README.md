@@ -3,7 +3,7 @@
 Columns:
 
 1. `price`: Target variable (int64) — house price.
-2. `area`: (int64) — size of the house in square feet.
+2. `area`: (int64) — size of the house in square metres.
 3. `bedrooms`: (int64) — number of bedrooms.
 4. `bathrooms`: (int64) — number of bathrooms.
 5. `stories`: (int64) — number of stories.
